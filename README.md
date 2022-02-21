@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @twofun2fun
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript
